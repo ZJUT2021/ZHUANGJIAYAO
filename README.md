@@ -1,2 +1,3 @@
 # ZHUANGJIAYAO
-项目
+SSD model:some projects and English literature 
+study schedule
